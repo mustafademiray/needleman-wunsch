@@ -1,2 +1,2 @@
 # needleman-wunsch
-Needleman-Wunsch for dna score calculation
+bioenformatik dersi icin yapmis oldugum proje. ornek input dosyasini da repoya ekledim.
